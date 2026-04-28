@@ -1,0 +1,8 @@
+Swiggy-Sales-Analysis
+├── Data
+│   ├── raw_data.csv            
+│   └── cleaned_data.xlsx       
+├── Dashboard/
+│   └── swiggy_analysis_v1.xlsx  
+├── Screenshots/
+│   └── dashboard_preview.png    image of  dashboard                 
