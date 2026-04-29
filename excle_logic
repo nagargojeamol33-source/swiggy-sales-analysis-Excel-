@@ -1,0 +1,23 @@
+total sales 
+=SUM(Data_Table[Sales_Amount])
+
+Average Order Value 
+=AVERAGE(Data_Table[Ratings])
+
+catagory cleaning 
+=SUM(Data_Table[Sales_Amount]) / COUNT(Data_Table[Order_ID]) 
+
+for monthly trend 
+=TRIM(CLEAN(A2))
+
+extracting day of week 
+=TEXT(B2, "mmm")
+
+Analysis 
+=SUMIF(Data_Table[Category], "Veg", Data_Table[Sales_Amount])
+
+ranking cities
+=LARGE(City_Sales_Range, 1)  // (2, 3, 4, 5 for others)
+
+sales brekdown 
+=SUMIFS(Data_Table[Sales], Data_Table[Date], ">="&DATE(2026,1,1), Data_Table[Date], "<="&DATE(2026,3,31))
