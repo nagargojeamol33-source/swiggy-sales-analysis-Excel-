@@ -2,6 +2,7 @@ Swiggy Sales & Customer Ratings Analytics Dashboard
 
 
 problem statment 
+
 The management team required a consolidated view of operations to answer critical questions.
 Sales Momentum: Which months and days show the highest order volume?
 Customer Satisfaction:  How are ratings distributed across different food categories (Veg vs. Non-Veg)?
