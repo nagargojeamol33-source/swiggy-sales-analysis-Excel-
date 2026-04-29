@@ -1,3 +1,12 @@
+Swiggy Sales & Customer Ratings Analytics Dashboard
+
+
+problem statment 
+The management team required a consolidated view of operations to answer critical questions.
+Sales Momentum: Which months and days show the highest order volume?
+Customer Satisfaction:  How are ratings distributed across different food categories (Veg vs. Non-Veg)?
+Regional Performance:  Which cities (Mumbai, Bengaluru, etc.) are driving the most revenue?
+Order Value:   What is the Average Order Value (AOV), and is it consistent across different quarters?
 Overview
 
 This project focuses on analyzing Swiggy's transactional data to derive actionable business insights. Using Advanced Microsoft Excel, I transformed a complex dataset into a high-impact interactive dashboard. The analysis covers sales performance, customer satisfaction metrics, and geographical distribution, providing a 360-degree view of Swiggy’s operations.
